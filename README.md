@@ -1,2 +1,4 @@
 # Object-Detection-Tensorflow-Training-Testing-Script
-This repository consist of a Training, exporting frozen graph and Prediction which can be used for custom object detection
+Tensorflow Object Detection on Custom Dataset
+
+This repository consist of Pre-processing, Training, and Predicition Notebooks. This Repository will help to predict on Images. If required w.r.t video then OpenCV functions can be changed accordingly to achieve the same.
